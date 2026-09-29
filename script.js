@@ -116,14 +116,14 @@ const projects = {
 
     quantum: {
 
-        title: "Quantum — Real Estate & Architecture Identity",
+        title: "Quantum — From Idea To Identity",
 
         tags: [
-            "LOGO DESIGN",
+            "BRAND IDENTITY",
         ],
 
         description:
-            "A luxury, minimal identity for an architecture and real-estate consultancy. The identity combines structure, permanence and refined Arabic visual language.",
+            "Quantum Tech a complete visual identity exploring the future of technology through clean design, bold colors, and modern branding.",
 
         images: [
             "quantum2.JPG",
@@ -140,14 +140,14 @@ const projects = {
 
     powerfitness: {
 
-        title: "Power fitness — Visual Identity",
+        title: "Power fitness — Logo",
 
         tags: [
-            "VISUAL IDENTITY",
+            "LOGO DESIGN",
         ],
 
         description:
-            "A refined visual identity built around strong typography, distinctive colors and a consistent graphic language.",
+            "Conceptual logo redesign for Power Fitness gym",
 
         images: [
             "powerfitness.PNG",
@@ -163,7 +163,7 @@ const projects = {
         title: "Bon Asill — Brand Identity",
 
         tags: [
-            "LOGO DESIGN",
+            "BRAND IDENTITY",
         ],
 
         description:
@@ -187,7 +187,7 @@ const projects = {
         ],
 
         description:
-            "A modern identity designed to communicate simplicity, confidence and a strong visual presence.",
+            "A modern logo design to communicate simplicity, confidence and a strong visual presence.",
 
         images: [
             "averra1.JPG",
