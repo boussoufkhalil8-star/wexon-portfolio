@@ -180,7 +180,7 @@ const projects = {
 
     averra: {
 
-        title: "averra — Logo Design",
+        title: "Averra — Logo Design",
 
         tags: [
             "LOGO DESIGN",
